@@ -5488,8 +5488,8 @@ a.video-popup-holder:hover .popup-play {
     .section.page-split h2.entry-title {
         padding-top: 30px;
         max-width: 90%;
-        font-size: 8vh !important;
-        margin-left: -60px !important;
+        font-size: 12vh !important;
+        margin-left: -50px !important;
         text-align: center !important;
    }
 
