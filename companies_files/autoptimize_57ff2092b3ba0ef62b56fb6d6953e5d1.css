@@ -5486,18 +5486,18 @@ a.video-popup-holder:hover .popup-play {
 }
 @media screen and (max-width: 426px){
     .section.page-split h2.entry-title {
-        padding-top: 30px;
+        padding-top: 20px;
         max-width: 90%;
-        font-size: 12vh !important;
-        margin-left: -50px !important;
+        font-size: 5vh !important;
+        margin-left: -56px !important;
         text-align: center !important;
    }
 
 }   
 @media screen and (max-width: 376px){
     .section.page-split h2.entry-title {
-        font-size: 10vh !important;
-        margin-left: -66px !important;
+        font-size: 4.95vh !important;
+        margin-left: -67.5px !important;
    }
     .section.page-split .section-title-holder .page-desc {
         width: 280px !important;
@@ -5506,8 +5506,8 @@ a.video-popup-holder:hover .popup-play {
 }  
 @media screen and (max-width: 321px){
     .section.page-split h2.entry-title {
-        font-size: 9vh !important;
-        margin-left: -73px !important;
+        font-size: 5vh !important;
+        margin-left: -71px !important;
         width: 508px !important;
    }
    .section.page-split .section-title-holder .page-desc {
